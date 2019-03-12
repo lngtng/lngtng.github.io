@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Adui</title>
   
-  
+  <subtitle>让每个人都能享受广告的乐趣</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://adui.me/"/>
