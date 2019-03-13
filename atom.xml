@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://adui.me/"/>
-  <updated>2019-03-12T08:18:33.111Z</updated>
+  <updated>2019-03-13T09:34:14.646Z</updated>
   <id>https://adui.me/</id>
   
   <author>
@@ -21,20 +21,23 @@
     <link href="https://adui.me/2019/03/12/Hello%EF%BC%8CHexo/"/>
     <id>https://adui.me/2019/03/12/Hello，Hexo/</id>
     <published>2019-03-12T04:42:51.000Z</published>
-    <updated>2019-03-12T08:18:33.111Z</updated>
+    <updated>2019-03-13T09:34:14.646Z</updated>
     
-    <content type="html"><![CDATA[<p>Hello,Hexo!</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Hello-Hexo"><a href="#Hello-Hexo" class="headerlink" title="Hello,Hexo!"></a>Hello,Hexo!</h1><p>Markdown 旨在简洁、高效，也由于 Markdown 的易读易写，人们用不同的编程语言实现了多个版本的解析器和生成器。这就导致了目前不同的 Markdown 工具集成了不同的功能（基础功能大致相同），例如流程图与时序图，复杂表格与复杂公式的呈现。  </p><h2 id="这是一段文字"><a href="#这是一段文字" class="headerlink" title="这是一段文字"></a>这是一段文字</h2><h3 id="这是插入的一张图片"><a href="#这是插入的一张图片" class="headerlink" title="这是插入的一张图片"></a>这是插入的一张图片</h3><p><img src="https://i.loli.net/2019/03/13/5c88c5705ae1e.jpg" alt="imi">  </p><h3 id="这是一个链接"><a href="#这是一个链接" class="headerlink" title="这是一个链接"></a>这是一个链接</h3><p><a href="https://www.baidu.com" target="_blank" rel="noopener">baidu</a>  </p><p><em>这是一段斜体</em><br><strong>这是 一段粗体</strong><br><strong><em>这是一段粗斜的字</em></strong>  </p><ul><li>这是一个无序列表</li><li>这是一个无序列表</li><li>这是一个无序列表  </li></ul><ol><li>这是一个有序列表</li><li>这是一个有序列表</li><li>这是一个有序列表  <blockquote><p>这里是引用  </p></blockquote></li></ol><hr><p>上面是一条分割线<br>这里是一段代码<br><code>&lt;script&gt;(function() {    var OriginTitile = document.title, titleTime;    document.addEventListener(&#39;visibilitychange&#39;, function() {        if (document.hidden) {            document.title = &#39;死鬼去哪里了！&#39;;            clearTimeout(titleTime);        } else {            document.title = &#39;(つェ⊂)咦!又好了!&#39;;            titleTime = setTimeout(function() {                document.title = OriginTitile;            },2000);        }    });})();&lt;/script&gt;</code></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Hello,Hexo!&lt;/p&gt;
-
+        &lt;h1 id=&quot;Hello-Hexo&quot;&gt;&lt;a href=&quot;#Hello-Hexo&quot; class=&quot;headerlink&quot; title=&quot;Hello,Hexo!&quot;&gt;&lt;/a&gt;Hello,Hexo!&lt;/h1&gt;&lt;p&gt;Markdown 旨在简洁、高效，也由于 Markdown 的易读易写，
       
     
     </summary>
     
+      <category term="默认分类" scheme="https://adui.me/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="hello,world" scheme="https://adui.me/tags/hello-world/"/>
     
   </entry>
   
